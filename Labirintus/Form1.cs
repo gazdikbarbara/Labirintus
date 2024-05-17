@@ -10,7 +10,7 @@ namespace Labirintus
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "Válasszon pályát nehézségi szint szerint!";
+            label1.Text = "Válassz pályát nehézségi szint szerint!";
         }
 
         private void buttonEasy_Click(object sender, EventArgs e)
